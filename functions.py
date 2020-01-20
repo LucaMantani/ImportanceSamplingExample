@@ -1,13 +1,6 @@
-import numpy as np
-
-
 def linear(x):
-    return x
+    return 2*x
 
 
 def square(x):
-    return x**2
-
-
-def cosine(x):
-    return np.cos(x)
+    return 3*x**2
